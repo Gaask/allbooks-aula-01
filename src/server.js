@@ -19,5 +19,5 @@ server.use(router) //rotas na prota 3000
 
 server.listen(8000, () => {
   console.log("Acesse essa API em http://localhost:8000")
-  status::"Editado e commitado via github"
+  status::"DEIXA O ERRO DE MERGE ACONTECER MEU DEUS"
 })
