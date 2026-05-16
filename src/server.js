@@ -18,6 +18,5 @@
   server.use(router) //rotas na prota 3000
 
   server.listen(8000, () => {
-    console.log("Adicionada alteração via VS Code para forçar erro de merge")
-    console.log("API disponível através de http://localhost:8000")
+    console.log("Acesse essa API em http://localhost:8000")
   })
